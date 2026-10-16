@@ -1,5 +1,9 @@
 # ごのみち (Go no Michi)
 
+[![Test and deploy](https://github.com/lumenworksco/Go-no-Michi/actions/workflows/deploy.yml/badge.svg)](https://github.com/lumenworksco/Go-no-Michi/actions/workflows/deploy.yml)
+[![License: MIT](https://img.shields.io/github/license/lumenworksco/Go-no-Michi)](LICENSE)
+[![Live](https://img.shields.io/badge/live-go.braunf.com-black)](https://go.braunf.com/)
+
 A small, polished Go (囲碁) web app and installable PWA — play against a built-in AI or
 pass-and-play with a friend, solve capturing puzzles, and learn the rules. The entire UI is
 written in **hiragana and katakana only** (no kanji), so it also works as reading practice for
