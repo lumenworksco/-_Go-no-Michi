@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 1.0.0 (2026-10)
 
 ### Phone layout fixes (found with `scripts/phone-check.mjs`)
 - Landscape phones: two-column home, compact game/puzzle panels, dialogs that fit and scroll, safe-area side margins.

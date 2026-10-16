@@ -1,7 +1,7 @@
 {
   "name": "go-no-michi",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "ごのみち (Go no Michi): a Go (囲碁) PWA with a built-in AI, tsumego puzzles and a hiragana/katakana-only Japanese UI",
   "keywords": [
     "go",
